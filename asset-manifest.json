@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://flank-code.github.io/csb-1x8qz0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://flank-code.github.io/csb-1x8qz0/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://flank-code.github.io/csb-1x8qz0/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://flank-code.github.io/csb-1x8qz0/static/js/runtime-main.29cb5505.js",
+    "runtime-main.js.map": "https://flank-code.github.io/csb-1x8qz0/static/js/runtime-main.29cb5505.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://flank-code.github.io/csb-1x8qz0/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://flank-code.github.io/csb-1x8qz0/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://flank-code.github.io/csb-1x8qz0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://flank-code.github.io/csb-1x8qz0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://flank-code.github.io/csb-1x8qz0/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29cb5505.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
